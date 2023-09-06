@@ -1,0 +1,46 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#heading{
+    padding-top: 0px;
+    padding-left: 450px;
+    font-size:55px;
+    color: aquamarine;
+}
+#hobbyh{
+    font-size: 40px;
+    color: aquamarine;
+    position:absolute;
+    left: 50px;
+    top:170px;
+}
+#abhobby{
+    position: absolute;
+    font-size: 30px;
+    left: 110px;
+    top: 245px;
+}
+#nativeh{
+    font-size: 40px;
+    color: aquamarine;
+    position:absolute;
+    left: 50px;
+    top:370px;
+}
+#intro{
+    font-size: 35px;
+    position: absolute;
+    left: 75px;
+    top: 130px;
+}
+#abnative{
+    position: absolute;
+    font-size: 30px;
+    left: 110px;
+    top: 445px;
+}

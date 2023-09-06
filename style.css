@@ -1,0 +1,41 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+    color:white;
+}
+.menu{
+    display: flex;
+    flex-flow: row;
+    padding-top: 20px;
+    text-align:center;
+}
+#top-button{
+    padding-left: 10%;
+}
+button{
+    font-size: larger;
+    border-radius: 8px;
+    background-color:rgb(116, 231, 192) ;
+    width: 170px;
+    height:50px
+}
+.wel{
+    position: absolute;
+    top:28%;
+    left: 150px;
+    font-size: xx-large;
+}
+#header img{
+    border: 3px solid rgb(116, 231, 192);
+    border-radius: 10px;
+    position: absolute;
+    top: 150px;
+    margin-left: 70%;
+}
+
+a{
+    color:aliceblue
+}

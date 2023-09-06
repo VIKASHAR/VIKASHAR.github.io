@@ -1,0 +1,61 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:black;
+    color:white;
+}
+.Heading{
+    padding-top: 0px;
+    padding-left: 300px;
+    font-size:55px;
+    color: aquamarine;
+}
+#sch{
+    color: aquamarine;
+    font-size: 35px;
+    position: absolute;
+    left: 30px;
+    top:120px;
+}
+#sch-des{
+    font-size: 30px;
+    position: absolute;
+    left: 50px;
+    top:180px;
+}
+#coll{
+    color: aquamarine;
+    font-size: 35px;
+    position: absolute;
+    left: 30px;
+    top:320px;
+}
+#coll-des{
+    font-size: 30px;
+    position: absolute;
+    left: 50px;
+    top:380px;
+}
+#twele-re{
+    color: aqua;
+    position: absolute;
+    top:520px;
+    left: 30px;
+}
+#tweleimg{
+    position: absolute;
+    left: 100px;
+    top: 570px;
+}
+#semmark{
+    position: absolute;
+    top: 570px;
+    left:670px;
+}
+#sem-re{
+    color: aqua;
+    position: absolute;
+    top:520px;
+    left: 600px;
+}
